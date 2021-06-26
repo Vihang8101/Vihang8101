@@ -1,7 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Vihang Patel</h1>
 <h3 align="center">IT Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihang8101&label=Profile%20views&color=0e75b6&style=flat" alt="vihang8101" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"  />
 
 - 👨‍💻 All of my projects are available at [https://vihang8101.github.io/](https://vihang8101.github.io/)
 
