@@ -6,9 +6,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"  />
 
-- 👨‍💻 All of my projects are available at [https://vihang8101.github.io/](https://vihang8101.github.io/)
-
-- 📝 I regularly write articles on [vihangpatel133.blogspot.com](vihangpatel133.blogspot.com)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/Vihang8101/](https://linktr.ee/Vihang8101/)
 
 - 📫 How to reach me **vihangpatel133@gmail.com**
 
